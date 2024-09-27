@@ -1,0 +1,29 @@
+/* SlangDetail.css */
+
+.slang-detail {
+    background-color: #fff;
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-top: 2rem;
+}
+
+.slang-detail h1 {
+    font-size: 2rem;
+    color: #2c3e50;
+    margin-bottom: 1rem;
+}
+
+.slang-detail p {
+    font-size: 1.1rem;
+    color: #34495e;
+    line-height: 1.6;
+}
+
+.slang-detail em {
+    color: #7f8c8d;
+}
+
+.slang-detail strong {
+    color: #2c3e50;
+}
